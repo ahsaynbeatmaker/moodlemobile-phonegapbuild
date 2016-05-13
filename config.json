@@ -10,7 +10,7 @@
     "customurlscheme": "moodlemobile",
     "siteurl": "http://mynativ.com/jaz",
     "presets": {"url": "http://mynativ.com/jaz", "username": ""},
-    
+    "notifications_enabled": true,
     "gcmpn": "694767596569"
 
 }
