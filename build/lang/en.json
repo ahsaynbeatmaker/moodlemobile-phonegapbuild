@@ -170,7 +170,7 @@
     "mm.login.errordeletesite": "An error occurred while deleting this site. Please try again.",
     "mm.login.errorupdatesite": "An error ocurred while updating the site's token.",
     "mm.login.help": "Help",
-    "mm.login.helpmelogin": "<p>The JAZ site URL is needed. This can be found on the JAZ website or by calling +263772584350.</p><p>If you can't connect please contact JAZ Connect admin.</p><p></p>",
+    "mm.login.helpmelogin": "The JAZ site URL is needed. This can be found on the JAZ website or by calling +263772584350. If you can't connect please contact JAZ Connect admin.",
     "mm.login.invalidaccount": "Please check your login details or ask your site administrator to check the site configuration.",
     "mm.login.invalidmoodleversion": "Invalid system version.",
     "mm.login.invalidsite": "The site URL is invalid.",
